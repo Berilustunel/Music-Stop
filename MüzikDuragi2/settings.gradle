@@ -1,0 +1,2 @@
+rootProject.name = "KasetCalar"
+include ':app'
